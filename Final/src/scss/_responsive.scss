@@ -1,0 +1,31 @@
+@media (max-width:1024px){
+    .shadeBox {
+        display: none;
+    }
+    .logoImg {
+        width: 119px;
+    }
+}
+@media (max-width:991px){
+    .shadeBox {
+        display: none;
+    }
+    .logoImg {
+        width: 119px;
+    }
+}
+@media (max-width:767px){
+    .timerText {
+        margin-right: 26px !important;
+      }
+    .shadeBox {
+        display: none;
+    }
+    .logoImg {
+        width: 119px;
+    }
+    .sliderBox img {
+        width: auto;
+        max-width: 135px;
+    }
+}
